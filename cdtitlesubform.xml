@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<form url="cdtitlesubform.php"
+ window="_self"
+ method="POST"
+ fontname="MS Sans Serif"
+ width="612"
+ height="457"
+ bkcolor="0x000000"
+ outlinecolor="0xC0C0C0"
+ fontcolor="0x000000"
+ themecolor="0xFFFF99"
+ fontcolor2="#FFFFFF"
+ bkcolor2="#000000"
+ includeresults="false"
+ emailuser="true"
+ reqmessage="* One or More Fields are Still Required * Please REFRESH this page and re-enter your info.*"
+ autoresponse="peacecoderecords@yahoo.com, teri@bigsismedia.com"
+ transition="1">
+
+<hidden
+ name="thankyoupage"
+ value="cdtitleentryresults.html"
+></hidden>
+
+<hidden
+ name="mailto"
+ value="rhbs-cdtitlecontest@suzesims.com"
+></hidden>
+
+<hidden
+ name="subject"
+ value="Official rhbs-cd title contest entry"
+></hidden>
+
+<image
+ image="bizsize.jpg"
+ x="104"
+ y="97"
+></image>
+
+<textinput
+ name="cdtitleFirstname"
+ x="114"
+ y="109"
+ w="125"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+ required="true"
+>
+</textinput>
+
+<textinput
+ name="cdtitleLastname"
+ x="114"
+ y="137"
+ w="126"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+ required="true"
+>
+</textinput>
+
+<textinput
+ name="cdtitleEmail"
+ x="114"
+ y="165"
+ w="128"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+ required="true"
+ emailbox="true"
+>
+</textinput>
+
+<textinput
+ name="cdtitleCity"
+ x="114"
+ y="193"
+ w="100"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+ required="true"
+ emailbox="true"
+>
+</textinput>
+
+<combobox
+ name="cdtitleState"
+ x="114"
+ y="218"
+ bkcolor="0x000000"
+ fontcolor="0xFFFFFF"
+ isemail="false"
+ w="100"
+ h="20">
+  <item name="Select One..."></item>
+  <item name="Alabama"></item>
+  <item name="Alaska"></item>
+  <item name="Arizona"></item>
+  <item name="Arkansas"></item>
+  <item name="California"></item>
+  <item name="Colorado"></item>
+  <item name="Connecticut"></item>
+  <item name="Delaware"></item>
+  <item name="Florida"></item>
+  <item name="Georgia"></item>
+  <item name="Hawaii"></item>
+  <item name="Idaho"></item>
+  <item name="Illinois"></item>
+  <item name="Indiana"></item>
+  <item name="Iowa"></item>
+  <item name="Kansas"></item>
+  <item name="Kentucky"></item>
+  <item name="Louisiana"></item>
+  <item name="Maine"></item>
+  <item name="Maryland"></item>
+  <item name="Massachusetts"></item>
+  <item name="Michigan"></item>
+  <item name="Minnesota"></item>
+  <item name="Mississippi"></item>
+  <item name="Missouri"></item>
+  <item name="Montana"></item>
+  <item name="Nebraska"></item>
+  <item name="Nevada"></item>
+  <item name="New Hampshire"></item>
+  <item name="New Jersey"></item>
+  <item name="New Mexico"></item>
+  <item name="New York"></item>
+  <item name="North Carolina"></item>
+  <item name="North Dakota"></item>
+  <item name="Ohio"></item>
+  <item name="Oklahoma"></item>
+  <item name="Oregon"></item>
+  <item name="Pennsylvania"></item>
+  <item name="Rhode Island"></item>
+  <item name="South Carolina"></item>
+  <item name="South Dakota"></item>
+  <item name="Tennessee"></item>
+  <item name="Texas"></item>
+  <item name="Utah"></item>
+  <item name="Vermont"></item>
+  <item name="Virginia"></item>
+  <item name="Washington"></item>
+  <item name="West Virginia"></item>
+  <item name="Wisconsin"></item>
+  <item name="Wyoming"></item>
+</combobox>
+
+<textinput
+ name="cdtitlePhone"
+ x="114"
+ y="242"
+ w="101"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+>
+</textinput>
+
+<textinput
+ name="cdtitleChoice01"
+ x="114"
+ y="297"
+ w="175"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+ required="true"
+>
+</textinput>
+
+<textinput
+ name="cdtitleChoice02"
+ x="114"
+ y="324"
+ w="175"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+>
+</textinput>
+
+<textinput
+ name="cdtitleChoice03"
+ x="114"
+ y="351"
+ w="175"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+>
+</textinput>
+
+<textinput
+ name="cdtitleChoice04"
+ x="114"
+ y="378"
+ w="175"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+>
+</textinput>
+
+<textinput
+ name="cdtitleChoice05"
+ x="114"
+ y="405"
+ w="175"
+ h="22"
+ initvalue=""
+ bkcolor="0x000000"
+  fontname="Arial"
+  fontcolor="0xFFFFFF"
+>
+</textinput>
+
+<checkbox
+ name="RulesAgree"
+ x="36"
+ y="75"
+ w="329"
+ h="18"
+ label=" * I agree to rules and conditons of this submittal."
+ labelPos="right"
+ value="checked"
+ fontitalic="italic"
+  fontsize="12"
+  fontname="Broadway"
+  fontcolor="0xFFCC00"
+></checkbox>
+
+<submitbutton
+ name="Submit Button 1"
+ x="506"
+ y="436"
+ w="100"
+ h="20"
+ label="Submit"
+ fontname="Arial"
+ fontcolor="0xAA0000"
+ fontbold="bold"
+  fontsize="12"
+ isbrowse="f"
+></submitbutton>
+
+<label
+ name="My Text 1"
+ x="61"
+ y="223"
+ w="42"
+ h="15"
+ text="* State"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 2"
+ x="68"
+ y="200"
+ w="35"
+ h="15"
+ text="* City"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 3"
+ x="61"
+ y="249"
+ w="42"
+ h="15"
+ text="Phone"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 4"
+ x="27"
+ y="116"
+ w="76"
+ h="15"
+ text="* First Name"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 5"
+ x="58"
+ y="172"
+ w="45"
+ h="15"
+ text="* Email"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 6"
+ x="29"
+ y="144"
+ w="74"
+ h="15"
+ text="* Last Name"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 7"
+ x="21"
+ y="304"
+ w="82"
+ h="15"
+ text="* Choice One"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 8"
+ x="30"
+ y="331"
+ w="73"
+ h="15"
+ text="Choice Two"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 9"
+ x="22"
+ y="358"
+ w="81"
+ h="15"
+ text="Choice Three"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 10"
+ x="28"
+ y="385"
+ w="75"
+ h="15"
+ text="Choice Four"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 11"
+ x="33"
+ y="412"
+ w="70"
+ h="15"
+ text="Choice Five"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 12"
+ x="8"
+ y="9"
+ w="155"
+ h="21"
+ text="The Red Hotz "
+ fontbold="bold"
+  fontname="Broadway"
+  fontcolor="0xCE0000"
+  fontsize="19"
+></label>
+
+<label
+ name="My Text 13"
+ x="36"
+ y="47"
+ w="156"
+ h="14"
+ text="* indicates required entry"
+ fontbold="bold"
+  fontname="Eras Medium ITC"
+  fontcolor="0xFF6600"
+  fontsize="11"
+></label>
+
+<label
+ name="My Text 14"
+ x="493"
+ y="9"
+ w="93"
+ h="21"
+ text="Sign up "
+ fontbold="bold"
+  fontname="Broadway"
+  fontcolor="0xF0CA33"
+  fontsize="19"
+></label>
+
+<label
+ name="My Text 15"
+ x="387"
+ y="5"
+ w="27"
+ h="27"
+ text=" - "
+ fontbold="bold"
+  fontname="Broadway"
+  fontcolor="0xFF6600"
+  fontsize="23"
+></label>
+
+<label
+ name="My Text 16"
+ x="112"
+ y="268"
+ w="189"
+ h="27"
+ text="List titles below:"
+ fontbold="bold"
+  fontname="Eras Medium ITC"
+  fontcolor="0xCE0000"
+  fontsize="23"
+></label>
+
+<label
+ name="My Text 17"
+ x="160"
+ y="9"
+ w="232"
+ h="21"
+ text="Name the CD Contest"
+ fontbold="bold"
+  fontname="Broadway"
+  fontcolor="0xCE0000"
+  fontsize="19"
+></label>
+
+<label
+ name="My Text 18"
+ x="408"
+ y="9"
+ w="85"
+ h="21"
+ text="Official"
+ fontbold="bold"
+  fontname="Broadway"
+  fontcolor="0xFF6600"
+  fontsize="19"
+></label>
+
+</form>

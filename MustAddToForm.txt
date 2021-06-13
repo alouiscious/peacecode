@@ -1,0 +1,182 @@
+*************************CD contest Form HTML content 3/25/07*****************************
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /></head>
+<body bgcolor="#000000">
+<p align=left> <font size="3" face="Accidental Presidency" color="#FF0000">
+Our fans and website visiors have been so outspoken with dozens of suggestions for The Red Hotz ; 
+<br>We have decided to place the title of our 2007 Cd in the hands of our fans!
+<br> Are you creative? 
+
+<font size="6" face="Accidental Presidency" color="#FF0000"> 
+<br> 
+<center>
+<br> 
+
+<font color="#DD6F00">The Red Hotz invite their fans to come up with a clever name for their 2007 full length CD release.  
+</font><br>
+<font size="4" face="Accidental Presidency" color="#FF0000"> 
+Think red, think hot and then give it your best shot!  
+<br><b>This contest is open to all great ideas!</b></font>
+<br>
+<hr color="#FF9900">
+<br>
+<p align=left> <font color=#fffff size="4">
+If we choose to name our 2007 CD with your submission--  one winner will receive:
+<ol type="1">
+    <lh><div align="left">One CD Title Prize Bundle</lh>
+    	<li>Honorable mention in the liner notes of the CD, </li>
+    <li>One Red Hot Frisbee signed by Suze Sims and Teri Anne Wilson,</li>
+    <li>One pair of tickets to The Red Hotz CD release party in July 2007</li>
+    <li>One signed copy of the new 2007 CD released</li>
+	<li>and the winner will be promoted to Fan Club Captain Status.</li>
+</ol> </div>
+
+
+<font color="#DD6F00">The Red Hotz CD Title Naming Contest ©2007 Peace Code Records begins SM 
+<a href="http://www.peace-code.com">
+<img src="tn_image003.jpg" width="48" height="50" alt="" border="0" align=""></a> on March 16 2007.
+<br>Please  <a href="ContestRules.html" target="_blank">READ THE CONTEST RULES</a>
+<br>then COMPLETE THE FORM below and include your name and email address 
+<br>with up to 5 CD names <font size="3">(no more than 5 entries per person)</font>. 
+<br>OR you can enter in person at any Red Hotz show.  
+<font size="3" color="#FF0000">
+<br>The deadline for CD title submissions is April 3, 2007.  
+<br>The Red Hotz CD title and winner will be announced April 11 2007.
+</font>
+<br>Thanks again for your participation! 
+<br>We can't wait to include one of you Red Hot Heads in selecting The Red Hotz next 2007 CD title...
+<br>GOOD LUCK!  
+</font></p>
+
+
+<center>
+The official The Red Hotz CD Naming Contest entry form.
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+ codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0"
+ width="612" height="457" id="coffeexml" align="middle">
+<param name="movie" value="rhbs-cdtitlecontest.swf"/>
+<param name="quality" value="high" />
+<param name="FlashVars" VALUE="xmlfile=rhbs-cdtitlecontest.xml&w=612&h=457"/>
+<param name="scale" value="noscale" />
+<param name="salign" value="lt" />
+<param name="bgcolor" value="#ffffff" />
+<embed src="rhbs-cdtitlecontest.swf" FlashVars="xmlfile=rhbs-cdtitlecontest.xml&w=612&h=457" quality="high" bgcolor="#ffffff" width="612" height="457"
+ name="coffeexml" scale="noscale" salign="lt" align="middle" type="application/x-shockwave-flash"
+ pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ </object>
+
+</center></body></html>
+
+*************************CD contest Form HTML content 3/24/07*****************************
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /></head>
+<body bgcolor="#000000">
+<p align=left> <font size="3" face="Accidental Presidency" color="#FF0000">
+Our fans and website visiors have been so verbal about dozens of Red Hotz suggestions; 
+<br>The Red Hotz have decided to place the title of our 2007 Cd in the hands of our fans!
+<br> Are you creative? 
+
+<font size="6" face="Accidental Presidency" color="#FF0000"> 
+<br> 
+<center>
+<br> 
+
+<font color="#DD6F00">The Red Hotz invite their fans to come up with a clever name for their 2007 full length CD release.  
+</font><br>
+<font size="4" face="Accidental Presidency" color="#FF0000"> 
+Think red, think hot and then give it your best shot!  
+<br><b>This contest is open to all great ideas!</b></font>
+<br>
+<hr color="#FF9900">
+<br>
+<p align=left> <font color=#fffff size="4">
+If we choose to name the CD your submission;  one winner will receive:
+<ol type="1">
+    <lh><div align="left">One CD Title Prize Bundle</lh>
+    	<li>Honorable mention in the liner notes of the CD, </li>
+    <li>One Red Hot Frisbee signed by Suze Sims and Teri Anne Wilson,</li>
+    <li>One pair of tickets to The Red Hotz CD release party in July 2007</li>
+    <li>One signed copy of the new 2007 CD released</li>
+	<li>and the winner will be promoted to Fan Club Captain Status.</li>
+</ol> </div>
+
+
+<font color="#DD6F00">The Red Hotz CD Title Naming Contest ©2007 Peace Code Records begins SM 
+<a href="http://www.peace-code.com">
+<img src="tn_image003.jpg" width="48" height="50" alt="" border="0" align=""></a> on March 16 2007.
+<br>Please READ THE CONTEST RULES 
+<br>then COMPLETE THE FORM below and include your name and email address 
+<br>with up to 5 CD names <font size="3">(no more than 5 entries per person)</font>. 
+<br>OR you can enter in person at any Red Hotz show.  
+<font size="3" color="#FF0000">
+<br>The deadline for CD title submissions is April 3, 2007.  
+<br>The Red Hotz CD title and winner will be announced April 16 2007.
+</font>
+<br>Thanks again for your participation! 
+<br>We can't wait to include one of you Red Hot Heads in selecting The Red Hotz next 2007 CD title...
+<br>GOOD LUCK!  
+</font></p>
+
+
+<center>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+ codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0"
+ width="612" height="457" id="coffeexml" align="middle">
+<param name="movie" value="rhbs-cdtitlecontest.swf"/>
+<param name="quality" value="high" />
+<param name="FlashVars" VALUE="xmlfile=rhbs-cdtitlecontest.xml&w=612&h=457"/>
+<param name="scale" value="noscale" />
+<param name="salign" value="lt" />
+<param name="bgcolor" value="#ffffff" />
+<embed src="rhbs-cdtitlecontest.swf" FlashVars="xmlfile=rhbs-cdtitlecontest.xml&w=612&h=457" quality="high" bgcolor="#ffffff" width="612" height="457"
+ name="coffeexml" scale="noscale" salign="lt" align="middle" type="application/x-shockwave-flash"
+ pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ </object>
+
+</center></body></html>
+
+************************* END CD contest Form HTML content*****************************
+
+************************* CD contest FLASH INTRO content*******************************
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+  <title>ContestIntro</title>
+  <meta http-equiv="refresh" content="5; url=http://www.suzesims.com/rhbs-cdtitlecontest.html">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <style type="text/css">
+    
+	<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+          codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0"
+          ID=funwithCD WIDTH=300 HEIGHT=150>
+          <PARAM NAME=movie VALUE="funwithCD.swf">
+          <PARAM NAME=quality VALUE=high>
+          <PARAM NAME=loop VALUE=false>
+          <EMBED src="funwithCD.swf" loop=false quality=high
+           WIDTH=300 HEIGHT=150 TYPE="application/x-shockwave-flash"
+           PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+          </EMBED>
+  </OBJECT>
+<!--
+    /* Add Hover with color to links */
+    a:hover {text-decoration: none; color:#FF002A;}
+  -->
+  </style>
+</head>
+<body bgcolor="#000000" text="#FF9900" link="#FFCC00" vlink="#800080" alink="#FF002A">
+
+
+<div style="font:normal 8px arial,sans-serif;text-align:center; margin:1em auto;">::: Made with CoffeeCup : 
+<a href="http://www.coffeecup.com/" title="HTML - FTP - Flash" style="text-decoration: none"> 
+Web Design Software &amp; Website Hosting</a> :::</div>
+</body>
+</html>
+
+
+************************* CD contest FLASH INTRO content*******************************

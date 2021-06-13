@@ -1,0 +1,10 @@
+body, table {
+	font-family: Verdana;
+	font-size: 9px;
+
+	color: #FFCCCC;
+	background-color: #000000;
+}
+.title {
+	font-size: 1.5em;
+}
